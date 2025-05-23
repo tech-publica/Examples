@@ -4,7 +4,7 @@
     "module": "ES6", // Use ES6 module system
     "outDir": "jsFiles", // Transpile output directory
     "rootDir": "./tsFiles", // Source directory
-    "strict": false, // Enable strict type-checking options
+    "strict": true, // Enable strict type-checking options
     "esModuleInterop": true, // Enable compatibility with CommonJS modules
     "forceConsistentCasingInFileNames": true, // Enforce consistent file naming
     "skipLibCheck": true // Skip type checking of declaration files

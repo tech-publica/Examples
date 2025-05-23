@@ -24,3 +24,4 @@ let str = "5";
 // } else {
 //   console.log("Not Equal");
 // }
+const z = "Bye-bye";
